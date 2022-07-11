@@ -1,6 +1,6 @@
 # TempApi.PartyApi
 
-All URIs are relative to *http://83.212.100.226:3004/v1*
+All URIs are relative to *http://83.212.100.226:3009/v1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
